@@ -205,3 +205,7 @@
 /src/authV2/ @mkarmark
 
 /src/purview/ @kairu-ms @jsntcy
+/src/azext_config-get-all/ @HuangYT2000
+/src/azext_my-extension/ @HuangYT2000
+/src/azext_my-new-extension/ @HuangYT2000
+/src/azext_init/ @HuangYT2000
